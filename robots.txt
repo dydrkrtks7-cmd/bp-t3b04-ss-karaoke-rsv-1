@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://t3b04-ss-karaoke-rsv-1.pages.dev/sitemap.xml
+Sitemap: https://sangsu-song-room.namanavi.com/sitemap.xml
